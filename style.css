@@ -1,0 +1,22 @@
+html body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/*-------------------------------------Backgrounds */
+
+body {
+    width: 100%;
+    background-image: url(images/george2.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
+
+/*-------------------------------------Navigation */
+
+.navi {
+    background-color: #0c2807;
+}
