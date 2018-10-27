@@ -4,6 +4,10 @@ html body {
     padding: 0;
 }
 
+body {
+    font-family: "Roboto", sans-serif;
+}
+
 /*-------------------------------------Backgrounds */
 
 body {
@@ -15,8 +19,33 @@ body {
     background-attachment: fixed;
 }
 
-/*-------------------------------------Navigation */
-
 .navi {
     background-color: #0c2807;
+}
+
+/*-------------------------------------Logo */
+
+.brand {
+    margin: 10px 0 10px 0;
+    padding: 0;
+}
+
+#logo-img {
+    width: 90px;
+    height: 50px;
+}
+
+/*-------------------------------------Navigation */
+
+.nav-ul li {
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 15px 0 15px 0;
+}
+
+.nav-ul li:hover {
+    font-style: italic;
+    transition: 0.5s ease-in-out;
+    color: #fff;
 }
