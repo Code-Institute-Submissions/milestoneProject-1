@@ -12,22 +12,22 @@ body {
 
 body {
     width: 100%;
-    background-image: url(images/george2.jpg);
+    background-image: url(images/Fsalam.jpg);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: 100% auto;
-    background-attachment: fixed;
+   
 }
 
-.navi {
-    background-color: #0c2807;
-}
+
 
 /*-------------------------------------Logo */
 
 .brand {
     margin: 10px 0 10px 0;
-    padding: 0;
+    padding-top: 5px;
+    font-size: 40px;
+    color: #fff;
 }
 
 #logo-img {
@@ -37,8 +37,14 @@ body {
 
 /*-------------------------------------Navigation */
 
+/*-------------------------------------Navigation */
+
+.my-navbar {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
 .nav-ul li {
-    font-size: 20px;
+    font-size: 18px;
     text-transform: uppercase;
     text-align: center;
     padding: 15px 0 15px 0;
@@ -46,6 +52,9 @@ body {
 
 .nav-ul li:hover {
     font-style: italic;
-    transition: 0.5s ease-in-out;
-    color: #fff;
+    background-color: #77773c;
+    transition: 0.2s ease-in-out;
+    
 }
+
+
