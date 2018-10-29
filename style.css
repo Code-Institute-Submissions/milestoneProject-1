@@ -38,8 +38,6 @@ body {
 
 /*-------------------------------------Navigation */
 
-/*-------------------------------------Navigation */
-
 .my-navbar {
     background-color: rgba(0, 0, 0, 0.7);
 }
@@ -58,4 +56,20 @@ body {
     
 }
 
+/*-------------------------------------Main Content */
+/*-------Introduction div */
 
+.intro {
+    padding: 100px 0 150px 100px;
+    color: #fff;
+}
+
+.intro-text {
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+
+.social {
+    float: right;
+}
