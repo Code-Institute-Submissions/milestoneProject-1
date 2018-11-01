@@ -20,9 +20,13 @@ body {
     background-color: #545960;
 }
 
+/*.div-intro {
+    background-color: rgba(102, 82, 0, 0.7);
+}
+*/
 
 
-/*-------------------------------------Logo */
+/*-------------------------------------Brand */
 
 .brand {
     margin: 10px 0 10px 0;
@@ -31,10 +35,6 @@ body {
     color: #fff;
 }
 
-#logo-img {
-    width: 90px;
-    height: 50px;
-}
 
 /*-------------------------------------Navigation */
 
