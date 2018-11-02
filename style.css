@@ -58,7 +58,7 @@ body {
 
 /*-------------------------------------Main Content */
 
-/*-------Introduction div */
+/*-----------------Introduction div */
 
 .intro {
     padding: 100px 0 150px 100px;
@@ -80,4 +80,12 @@ body {
     padding: 0 20px 0 0;
     margin: 0;
     list-style-type: none;
+}
+
+/*-----------------Carousel div*/
+
+.carousel-inner img {
+      -webkit-filter: grayscale(90%);
+      filter: grayscale(90%);
+      margin: auto;
 }
