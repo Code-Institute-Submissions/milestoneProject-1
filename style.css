@@ -9,9 +9,16 @@ body {
 
 }
 
+/*-------------------------------------Padding removal */
+
+.padding-rem {
+    padding: 0;
+}
+
 /*-------------------------------------Backgrounds */
 
-body {
+.bg-img {
+    top: 100%;
     width: 100%;
     background-image: url(images/Fsalam.jpg);
     background-position: top center;
@@ -60,6 +67,7 @@ body {
 
 /*-----------------Introduction div */
 
+
 .intro {
     padding: 100px 0 150px 100px;
     color: #fff;
@@ -85,7 +93,6 @@ body {
 /*-----------------Carousel div*/
 
 .carousel-inner img {
-      -webkit-filter: grayscale(90%);
-      filter: grayscale(90%);
+     
       margin: auto;
 }
