@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500');
+
 html body {
     height: 100%;
     margin: 0;
@@ -27,46 +29,56 @@ body {
     background-color: #545960;
 }
 
+.my-navbar {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
 /*.div-intro {
     background-color: rgba(102, 82, 0, 0.7);
 }
 */
 
-
 /*-------------------------------------Brand */
 
 .brand {
-    margin: 10px 0 10px 0;
-    padding-top: 5px;
-    font-size: 40px;
-    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin: 0;
+    font-size: 20px;
+    color: #292a2b;
 }
+
+
 
 
 /*-------------------------------------Navigation */
 
-.my-navbar {
-    background-color: rgba(0, 0, 0, 0.7);
-}
-
 .nav-ul li {
-    font-size: 18px;
+    line-height: 120px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    transition: .5s;
     text-transform: uppercase;
     text-align: center;
-    padding: 15px 0 15px 0;
 }
+
+.nav-ul li a {
+    line-height: 60px;
+}
+
 
 .nav-ul li:hover {
     font-style: italic;
     background-color: #77773c;
-    transition: 0.2s ease-in-out;
+    transition: .5s ease-in-out;
 
 }
+
 
 /*-------------------------------------Main Content */
 
 /*-----------------Introduction div */
-
 
 .intro {
     padding: 100px 0 150px 100px;
@@ -93,6 +105,14 @@ body {
 /*-----------------Carousel div*/
 
 .carousel-inner img {
-     
-      margin: auto;
+
+    margin: auto;
+}
+
+
+@media(min-width: 768px) {
+    .brand {
+        font-size: 35px;
+        margin: 15px 0 0 0;
+    }
 }
