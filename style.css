@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,500');
 
-html body {
+html body,
+.wrapper {
     height: 100%;
     margin: 0;
     padding: 0;
@@ -30,7 +31,11 @@ body {
 }
 
 .my-navbar {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: #181819;
+}
+
+.photo-bg {
+    background-color: #77773c;
 }
 
 /*.div-intro {
@@ -45,7 +50,7 @@ body {
     font-weight: 500;
     margin: 0;
     font-size: 20px;
-    color: #292a2b;
+    color: #74747a;
 }
 
 
@@ -80,9 +85,13 @@ body {
 
 /*-----------------Introduction div */
 
+.padding-rem {
+    height: 331px;
+}
+
 .intro {
     padding: 100px 0 150px 100px;
-    color: #fff;
+    color: #cdcdd6;
 }
 
 .intro-text {
@@ -103,6 +112,11 @@ body {
 }
 
 /*-----------------Carousel Section*/
+
+.photo-title {
+    height: 150px;
+    background-color: #77773c;
+}
 
 .carousel-inner img {
     margin: auto;
