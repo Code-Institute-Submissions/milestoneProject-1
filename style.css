@@ -2,9 +2,10 @@
 
 html body,
 .wrapper {
-    height: 100%;
+    border: 0;
     margin: 0;
     padding: 0;
+    height: 100%;
 }
 
 body {
@@ -86,12 +87,11 @@ body {
 /*-----------------Introduction div */
 
 .padding-rem {
-    height: 331px;
+    height: 162px;
 }
 
 .intro {
-    padding: 100px 0 150px 100px;
-    color: #cdcdd6;
+    padding: 0px 0 92px 100px;
 }
 
 .intro-text {
@@ -109,6 +109,21 @@ body {
     padding: 0 20px 0 0;
     margin: 0;
     list-style-type: none;
+}
+
+/*-----------------Social Section*/
+
+.social li a i {
+    width: 25.21px;
+    color: #000;
+    font-size: 25px;
+    border: 1px solid;
+    border-radius: 20%;
+    background-color: #77773c;
+}
+
+.social li a i:hover {
+    color: #918131;
 }
 
 /*-----------------Carousel Section*/
@@ -149,5 +164,18 @@ body {
     .brand {
         font-size: 35px;
         margin: 15px 0 0 0;
+    }
+    .social li a i {
+        width: 91.97px;
+        color: #000;
+        font-size: 40px;
+        padding: 18px;
+        border: 1px solid;
+        border-radius: 20%;
+        background-color: #77773c;
+    }
+    .intro {
+        padding: 100px 0 150px 100px;
+        color: #cdcdd6;
     }
 }
