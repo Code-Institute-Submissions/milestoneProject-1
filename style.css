@@ -31,16 +31,15 @@ body {
 
 }
 
-.my-navbar,
-.center h2 {
+.my-navbar {
     background-color: #181819;
 }
 
 .photo-bg,
-.photo-title,
 .music,
 .video,
-.video-bg {
+.video-bg,
+.download {
     background-color: #77773c;
 }
 
@@ -162,6 +161,7 @@ body {
     text-align: center;
     height: 100px;
     padding-top: 25px;
+    background-color: #77773c;
 }
 
 /*--------------------Music Section*/
@@ -201,7 +201,14 @@ body {
 
 .download {
     height: 300px;
-    background-color: #13355b;
+}
+
+.download h2 {
+    text-align: center;
+}
+
+.download p {
+    font-size: 30px;
 }
 
 /*--------------------Contact Section*/
