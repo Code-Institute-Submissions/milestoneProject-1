@@ -28,17 +28,19 @@ body {
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
-    
+
 }
 
 .my-navbar,
-.center h2,{
+.center h2 {
     background-color: #181819;
 }
 
 .photo-bg,
 .photo-title,
-.music {
+.music,
+.video,
+.video-bg {
     background-color: #77773c;
 }
 
@@ -58,6 +60,7 @@ body {
 
 
 /*-------------------------------------Navigation */
+
 .my-navbar {
     margin: 0;
 }
@@ -163,7 +166,8 @@ body {
 
 /*--------------------Music Section*/
 
-.music h2 {
+.music h2,
+.video {
     margin: 0;
     height: 100px;
     padding-top: 33px;
@@ -174,10 +178,24 @@ body {
     padding: 0;
 }
 
-.music p {
-    padding-top: 11.5px;
-    padding-left: 250px;
+/*--------------------Video Section*/
+
+.social-video {
+    font-size: 150px;
 }
+
+.social-video ul {
+    list-style: none;
+}
+
+.social-video {
+    height: 311.25px;
+}
+
+.social-video ul li a i {
+    color: #e02208;
+}
+
 
 /*--------------------Download Section*/
 
@@ -212,5 +230,9 @@ body {
     .intro {
         padding: 100px 0 575px 100px;
         color: #cdcdd6;
+    }
+
+    .music p {
+        padding-top: 11.5px;
     }
 }
