@@ -28,7 +28,6 @@ body {
     background-position: top center;
     background-repeat: no-repeat;
     background-size: 100% auto;
-    background-color: #545960;
 }
 
 .my-navbar {
@@ -99,7 +98,7 @@ body {
 
 /*-----------------Introduction div */
 
-.padding-rem {
+.height {
     height: 162px;
 }
 
@@ -142,12 +141,21 @@ body {
 /*-----------------Carousel Section*/
 
 .photo-title {
-    height: 150px;
     background-color: #77773c;
+    margin: 0;
+    font-size: 40px;
 }
 
 .carousel-inner img {
     margin: auto;
+}
+
+.carousel-padding {
+    padding-bottom: 62.5px;
+}
+
+.center h2 {
+    text-align: center;
 }
 
 /*--------------------Music Section*/
