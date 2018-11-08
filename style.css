@@ -34,7 +34,9 @@ body {
     background-color: #181819;
 }
 
-.photo-bg {
+.photo-bg,
+.photo-title,
+.music {
     background-color: #77773c;
 }
 
@@ -141,7 +143,6 @@ body {
 /*-----------------Carousel Section*/
 
 .photo-title {
-    background-color: #77773c;
     margin: 0;
     font-size: 40px;
 }
@@ -160,9 +161,12 @@ body {
 
 /*--------------------Music Section*/
 
+.music h2 {
+    text-align: center;
+}
+
 .music {
-    height: 300px;
-    background-color: #b3bcc6;
+    padding: 0;
 }
 
 /*--------------------Download Section*/
