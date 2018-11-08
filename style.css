@@ -27,10 +27,12 @@ body {
     background-image: url(images/Fsalam.jpg);
     background-position: top center;
     background-repeat: no-repeat;
-    background-size: 100% auto;
+    background-size: cover;
+    
 }
 
-.my-navbar {
+.my-navbar,
+.center h2,{
     background-color: #181819;
 }
 
@@ -40,10 +42,7 @@ body {
     background-color: #77773c;
 }
 
-/*.div-intro {
-    background-color: rgba(102, 82, 0, 0.7);
-}
-*/
+
 
 /*-------------------------------------Brand */
 
@@ -156,17 +155,28 @@ body {
 }
 
 .center h2 {
+    margin: 0;
     text-align: center;
+    height: 100px;
+    padding-top: 25px;
 }
 
 /*--------------------Music Section*/
 
 .music h2 {
+    margin: 0;
+    height: 100px;
+    padding-top: 33px;
     text-align: center;
 }
 
 .music {
     padding: 0;
+}
+
+.music p {
+    padding-top: 11.5px;
+    padding-left: 250px;
 }
 
 /*--------------------Download Section*/
@@ -200,7 +210,7 @@ body {
         background-color: #77773c;
     }
     .intro {
-        padding: 100px 0 150px 100px;
+        padding: 100px 0 575px 100px;
         color: #cdcdd6;
     }
 }
