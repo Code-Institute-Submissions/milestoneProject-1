@@ -39,7 +39,9 @@ body {
 .music,
 .video,
 .video-bg,
-.download {
+.download,
+.bg-contact,
+.bg-footer {
     background-color: #77773c;
 }
 
@@ -212,6 +214,8 @@ body {
 }
 
 /*--------------------Contact Section*/
+
+
 
 button[type="submit"] {
     background-color: #e84610;
