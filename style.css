@@ -213,9 +213,9 @@ body {
 
 /*--------------------Contact Section*/
 
-.contact {
-    height: 300px;
-    background-color: #6c99cc;
+button[type="submit"] {
+    background-color: #e84610;
+    color: #fafafa;
 }
 
 /*-------------------------------------Media Queries */
