@@ -149,8 +149,11 @@ body {
     margin: auto;
 }
 
-.carousel-padding {
-    padding-bottom: 62.5px;
+.carousel .item{
+    min-height: 280px;
+}
+.carousel .item img{
+    margin: 0 auto; 
 }
 
 .center h2 {
@@ -252,6 +255,15 @@ footer ul li a:hover {
     color: #fff;
     background-color: #000;
     text-decoration: none;
+}
+
+.footer-social a i {
+    font-size: 30px;
+    color: #48484c;
+}
+
+.footer-social a i:hover {
+    color: #070707;
 }
 
 /*-------------------------------------Media Queries */
