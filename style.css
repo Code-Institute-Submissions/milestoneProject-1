@@ -180,6 +180,10 @@ body {
     padding: 0;
 }
 
+.music audio {
+    width: 100%;
+}
+
 /*--------------------Video Section*/
 
 .social-video {
