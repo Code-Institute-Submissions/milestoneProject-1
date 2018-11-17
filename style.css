@@ -109,13 +109,8 @@ body {
 
 .intro {
     padding: 0px 0 92px 100px;
+    color: #cdcdd6;
 }
-
-.intro-text {
-    font-size: 18px;
-    padding-top: 10px;
-}
-
 
 .social {
     font-size: 35px;
