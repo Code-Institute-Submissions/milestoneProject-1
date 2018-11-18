@@ -257,6 +257,10 @@ footer ul li a:hover {
     text-decoration: none;
 }
 
+.footer-social a {
+    padding: 10px;
+}
+
 .footer-social a i {
     font-size: 30px;
     color: #48484c;
