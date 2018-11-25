@@ -39,6 +39,8 @@ It is designed to make their life easier by covering all the needs as follows:
 
 #### FUTURES LEFT TO IMPLEMENT
 
+* ###### Shop - this will allow users to purchase artists related items (hats, t-shirts, etc..)
+* ###### Chat - this will allow users to contact the artist much faster
 
 ## TECHNOLOGIES USED
 
