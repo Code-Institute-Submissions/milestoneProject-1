@@ -17,7 +17,13 @@ wants to show up on online with a perfect user experience that combines informat
 
 ## UX
 
-
+This website si for customer's fans and potentially new fans as it is friendly, easy-to-use, and is made with mobile-first approach.
+It is designed to make their life easier by covering all the needs as follows:
+* As a user, I want to be able to read latest information about the artist so I can stay up-to-date with what he does
+* As a user, I want to be able to listen official songs
+* As a user, I want to be able to watch videos so I can stay up-to-date with the artist's appearance and trends
+* As a user, I want to be able to contact the artist for events and projects
+* As a user, I want to be able to find the artist's official social pages
 
 ## FUTURES
 
