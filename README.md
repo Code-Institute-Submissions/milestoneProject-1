@@ -116,7 +116,16 @@ As this project does not include automation for testing, all the tests should be
 
 ###### This project can be deployed to any hosting website as long as the structure and file names are kept.
 
+______
 
+            milestone-project
+                images
+                    ---
+                music
+                    ---
+                index.html
+                README.md
+                style.css
 
 ## CREDITS
 
