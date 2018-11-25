@@ -131,9 +131,16 @@ ______
 
 #### CONTENT
 
+The text on top of page was inspired from [Andra Music](www.andramusic.ro/).
+
 #### MEDIA 
 
+The music was obtained from [muzica noua](wWw.NouaMuzica.Info).  
+The pictures was obtained from the artists' [facebook](https://www.facebook.com/MusicFlorinSalam/?ref=br_rs) page and [iConcert](www.iconcert.ro).  
+
 #### ACKNOWLEDGEMENTS
+
+Mentor Moosa Hassan for the feedback of this project.
 
 
 
