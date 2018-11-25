@@ -62,6 +62,47 @@ It is designed to make their life easier by covering all the needs as follows:
 
 ## TESTING
 
+As this project does not include automation for testing, all the tests should be conducted manually:
+* As a user, I want to be able to read latest information about the artist so I can stay up-to-date with what he does:
+    * click on the `About` section on the navigation menu
+    
+* As a user, I want to be able to listen official songs
+    * click on `Music` section on the navigation menu - this will take you down to the section
+    * click ` play ` any of the players displayed - now the music playes
+    
+* As a user, I want to be able to watch videos so I can stay up-to-date with the artist’s appearance and trends
+    * click on the ` Videos ` section on the navigation menu 
+    * click ` play ` on the video provided, and it will play
+    * for more videos click on the ` youtube ` icon, next to the video, and this will take you to the artists' youtube channel
+    
+* As a user, I want to be able to contact the artist for events and projects
+    * click on the ` Contact ` section on the navigation menu
+    * try to submit the empty form and verify that an error message about the required fields appears
+    * try to submit the form with an invalid email address and verify that a relevant error message appears
+    * try to submit the form with all inputs valid and verify that a success message appears.
+
+* As a user, I want to be able to find the artist’s official social pages
+    * click on the `About` section on the navigation menu
+    * on the right side of the page, are the liks, each one with the specific icon
+    * click on `Facecook` icon
+    * this will open on a new page
+    * same steps for all the social icons
+
+* All the steps mentioned above can be done using the navigation menu from the footer, which have been created for a better user experience 
+
+### RESPONSIVENES
+
+* This website has been designed to adapt on different screen size, with mobile-first approach.   
+* On smaller screens the navigation meniu will collapse to a "hamburger" icon, the `youtube` icon will not be displayed, and the rest of content will be shown according to the screen size.  
+* On medium and large screens all navigation meniu content is displayed, and the rest of the content as well. Everything is adapted accordingto the screen size.
+* All external links contain `target=_blank` so the users will navigate on separate pages.
+
+### ISSUES found during testing
+
+* `navigation menu` did not collapse on smaller devices - FIXED
+* `carousel` photos did not work - FIXED
+* `video` section did not displayed on smaller devices - FIXED
+
 
 ## DEPLOYMENT
 
