@@ -103,8 +103,19 @@ As this project does not include automation for testing, all the tests should be
 * `carousel` photos did not work - FIXED
 * `video` section did not displayed on smaller devices - FIXED
 
+### TESTING ON BROWSERS
+
+|**BROWSER**|**VERSION**|**COMPATIBILITY**|
+|:---|---|:---:|
+|`SAFARI`|*LATEST*|100%|
+|`GOOGLE CHROME`|*LATEST*|100%|
+|`OPERA`|*LATEST*|100%|
+|`MOZILLA FIREFOX`|*LATEST*|100%|
 
 ## DEPLOYMENT
+
+###### This project can be deployed to any hosting website as long as the structure and file names are kept.
+
 
 
 ## CREDITS
