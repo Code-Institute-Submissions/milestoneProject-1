@@ -56,6 +56,10 @@ It is designed to make their life easier by covering all the needs as follows:
 
 * this project has been developed as mobile-first approach using Bootstrap
 
+#### Development
+
+* [Cloud9](https://c9.io/) has been used as IDE for this projects' development
+
 ## TESTING
 
 
