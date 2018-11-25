@@ -27,9 +27,15 @@ It is designed to make their life easier by covering all the needs as follows:
 
 ## FUTURES
 
-
 #### EXISTING FUTURES
 
+* ###### Photo Gallery - allow users to see official photos of the artist
+* ###### Music - allow users to play music on the website
+* ###### Videos - allow users watch official videos on the website
+* ###### Contact form - allow users to contact the artist direct on the website
+* ###### Social Icons - allow users to find the official social accounts on the website
+* ###### Youtube Channel - allow users to find the artist's official youtube channel
+* ###### Sections links - allow users to navigate within the website fast
 
 #### FUTURES LEFT TO IMPLEMENT
 
