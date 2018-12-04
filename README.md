@@ -97,7 +97,7 @@ As this project does not include automation for testing, all the tests should be
 * On medium and large screens all navigation menu content is displayed, and the rest of the content as well. Everything is adapted accordingto the screen size.
 * All external links contain `target=_blank` so the users will navigate on separate pages.
 
-### ISSUES found during testing
+### BUGS found during testing
 
 * `navigation menu` did not collapse on smaller devices - FIXED
 * `carousel` photos did not work - FIXED
