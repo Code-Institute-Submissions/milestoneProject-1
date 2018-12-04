@@ -1,7 +1,7 @@
 # FLORIN SALAM OFFICIAL WEBSITE
 
 Florin Salam is a `MANELE` singer from Romania. One of the best known and appreciated of this style, Florin
-wants to show up on online with a perfect user experience that combines informations and functionality.
+wants to show up in online with a perfect user experience that combines informations and functionality.
 
 
 ## CUSTOMER REQUEST
@@ -17,7 +17,7 @@ wants to show up on online with a perfect user experience that combines informat
 
 ## UX
 
-This website si for customer's fans and potentially new fans as it is friendly, easy-to-use, and is made with mobile-first approach.
+This website is for customer's fans and potentially new fans as it is friendly, easy-to-use, and is made with mobile-first approach.
 It is designed to make their life easier by covering all the needs as follows:
 * As a user, I want to be able to read latest information about the artist so I can stay up-to-date with what he does
 * As a user, I want to be able to listen official songs
@@ -25,9 +25,9 @@ It is designed to make their life easier by covering all the needs as follows:
 * As a user, I want to be able to contact the artist for events and projects
 * As a user, I want to be able to find the artist's official social pages
 
-## FUTURES
+## FEATURES
 
-#### EXISTING FUTURES
+#### EXISTING FEATURES
 
 * ###### Photo Gallery - allow users to see official photos of the artist
 * ###### Music - allow users to play music on the website
@@ -37,7 +37,7 @@ It is designed to make their life easier by covering all the needs as follows:
 * ###### Youtube Channel - allow users to find the artist's official youtube channel
 * ###### Sections links - allow users to navigate within the website fast
 
-#### FUTURES LEFT TO IMPLEMENT
+#### FEATURES LEFT TO IMPLEMENT
 
 * ###### Shop - this will allow users to purchase artists related items (hats, t-shirts, etc..)
 * ###### Chat - this will allow users to contact the artist much faster
@@ -94,7 +94,7 @@ As this project does not include automation for testing, all the tests should be
 
 * This website has been designed to adapt on different screen size, with mobile-first approach.   
 * On smaller screens the navigation meniu will collapse to a "hamburger" icon, the `youtube` icon will not be displayed, and the rest of content will be shown according to the screen size.  
-* On medium and large screens all navigation meniu content is displayed, and the rest of the content as well. Everything is adapted accordingto the screen size.
+* On medium and large screens all navigation menu content is displayed, and the rest of the content as well. Everything is adapted accordingto the screen size.
 * All external links contain `target=_blank` so the users will navigate on separate pages.
 
 ### ISSUES found during testing
